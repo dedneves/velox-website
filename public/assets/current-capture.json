@@ -1,0 +1,36 @@
+{
+  "kind": "x11-window-capture",
+  "version": "0.3.3",
+  "binary_sha256": "8e855f987a278f7133b553b4b2483ed8610e30cc9d5d588ae11681ed6ab18f45",
+  "captured_at_utc": "2026-10-04T03:43:29Z",
+  "views": [
+    {
+      "name": "terminal",
+      "file": "velox-current-terminal.png",
+      "width": 1024,
+      "height": 720,
+      "sha256": "b7106d17ffae3884660dcfc902c08717f494be4033551a524c749861c1ad5ca5"
+    },
+    {
+      "name": "settings",
+      "file": "velox-current-settings.png",
+      "width": 1024,
+      "height": 720,
+      "sha256": "6cdd9d07109d275875e69ff880f374e1fc82e402bd210561bca074471a6a499a"
+    },
+    {
+      "name": "palette",
+      "file": "velox-current-palette.png",
+      "width": 1024,
+      "height": 720,
+      "sha256": "da814be9bb3016f482345422aa641672c77a88163280ea81c4b1b6780c61e1f1"
+    },
+    {
+      "name": "menu",
+      "file": "velox-current-menu.png",
+      "width": 1024,
+      "height": 720,
+      "sha256": "bcffe173e4f5735a8be0b5381f5f6817ffe9f26f01ea69dbe9543830476b93ef"
+    }
+  ]
+}

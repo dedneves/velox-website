@@ -1,0 +1,8 @@
+{
+  "source": "tests/artifacts/a2-render.png",
+  "metadata": "tests/artifacts/a2-render.json",
+  "description": "Captura histórica da fixture Unicode, anterior à 0.3.3. Não utilizada como imagem da versão atual.",
+  "sha256": "f6563ff2ff227e67f188d06bab374edcd13a68172b567a8e6ccb04f21ea3e6f3",
+  "current": false,
+  "version": null
+}
